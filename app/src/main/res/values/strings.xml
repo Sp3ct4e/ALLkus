@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ALLkus</string>
+    <string name="radio1">Tequila</string>
+    <string name="radio2">Gin</string>
+    <string name="radio3">Wódka</string>
+    <string name="radio4">Whiskey</string>
+    <string name="radio5">Piwo</string>
+    <string name="radio6">Wino</string>
+    <string name="radio7">Drink</string>
 </resources>
