@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         dataButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(),add_data.class));
+                startActivity(new Intent(getApplicationContext(),data.class));
             }
         });
     }
